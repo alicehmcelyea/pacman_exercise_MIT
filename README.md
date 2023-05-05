@@ -25,7 +25,7 @@ Add different environments: You could add different environments that change the
 
 Support is not available at this time. 
 
-## Contributing
+## License
 
 Copyright 2023 Alice McElyea
 
