@@ -1,4 +1,4 @@
-PacMan Game
+## PacMan Game
 
 This code creates a simple game that features Pac-Man moving across a game container and collecting dots. The game is built using JavaScript and HTML, and is initialized when the start button is clicked. The game container is selected using the querySelector() method, and Pac-Man and the dots are created using the createElement() method. The Pac-Man images are stored in an array, and the game uses setInterval() to animate Pac-Man's movement across the container, switching between the two images in the array to create the illusion of motion. The game also detects collisions between Pac-Man and the dots, removing the dots from the container and adding points to the player's score. The game continues until all of the dots have been collected or until Pac-Man collides with a wall.
 
@@ -27,7 +27,7 @@ Support is not available at this time.
 
 ## Contributing
 
-Copyright <2023> <Alice McElyea>
+Copyright 2023 Alice McElyea
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
